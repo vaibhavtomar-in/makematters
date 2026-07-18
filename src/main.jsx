@@ -11,7 +11,7 @@ const engagements = [
     detail: 'One sharp outcome. We scope it, build it, and ship it without turning your calendar into confetti.',
     cadence: '1–2 weeks',
     rhythm: 'Async updates',
-    image: 'https://images.unsplash.com/photo-1558655146-9f40138edfeb?auto=format&fit=crop&w=1600&q=85',
+    image: '/images/focused-sprint.webp',
     imagePosition: 'center',
   },
   {
@@ -19,7 +19,7 @@ const engagements = [
     detail: 'From rough brief to a production-ready web product—with strategy, design, and engineering in one loop.',
     cadence: '3–8 weeks',
     rhythm: 'Weekly demos',
-    image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1600&q=85',
+    image: '/images/product-build.webp',
     imagePosition: 'center',
   },
   {
@@ -27,7 +27,7 @@ const engagements = [
     detail: 'A senior product team that flexes around yours. We bring the right mix of design and engineering as the work evolves.',
     cadence: 'Flexible',
     rhythm: 'Your team cadence',
-    image: 'https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=1600&q=85',
+    image: '/images/studio-partnership.webp',
     imagePosition: 'center',
   },
 ];
